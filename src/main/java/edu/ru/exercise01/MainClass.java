@@ -1,7 +1,7 @@
 package edu.ru.exercise01;
 
 /**
- *
+ *https://github.com/upallnit123/exercise01.git
  * @author upall
  */
 public class MainClass {
